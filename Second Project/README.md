@@ -1,7 +1,6 @@
 Electric Vehicle Analytics – Spec 2025
 This project presents a data-driven analysis of electric vehicles (EVs) using demo data from Spec 2025. It includes various EV brands and their models, with in-depth exploration of performance metrics, battery types, and market segments.
 
-⚠️ Note: This project is based on demo data and is intended for educational and portfolio-building purposes only.
 
 🔍 Key Insights Covered:
 Efficiency trends across different EV brands
@@ -20,3 +19,5 @@ Excel – for data cleaning and preparation
 Python – for preprocessing and deeper analysis
 
 MySQL – for structured data storage and querying
+
+⚠️ Note: This project is based on demo data and is intended for educational and portfolio-building purposes only.
