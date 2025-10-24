@@ -1,0 +1,56 @@
+Global Weather Dataset – Project Resource
+Overview
+
+This project provides a comprehensive dataset of daily weather and air quality measurements for capital cities around the world. It is designed to support research, analysis, and predictive modeling of global weather patterns, environmental conditions, and pollution levels.
+
+Dataset Source
+
+Name: World Weather Repository (Daily Updating)
+
+Source: Kaggle.com
+
+Time Range: 2024-05-16 to 2025-09-13
+
+Coverage: Capital cities worldwide
+
+Key Features
+
+The dataset includes over 40+ parameters related to weather and air quality, such as:
+
+Temperature (current, minimum, maximum)
+
+Wind speed and direction
+
+Atmospheric pressure
+
+Precipitation levels
+
+Humidity
+
+Visibility
+
+Air quality measurements (PM2.5, PM10, AQI, etc.)
+
+UV index and illumination and so on...
+
+Potential Applications
+
+This resource can be used for:
+
+Climate and weather trend analysis
+
+Correlation studies between weather and air pollution
+
+Weather forecasting models
+
+Environmental research and monitoring
+
+Geographical comparisons of climate and pollution
+
+Format
+
+CSV format for daily records
+
+Each row represents a single day for a specific city
+
+Features include both meteorological and environmental parameters
